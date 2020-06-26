@@ -1,7 +1,6 @@
 ---
 title:  DragonTT Initial Release
 date:   2020-06-24 18:00:00
-categories: dragontt tetris
 ---
 The initial version of DragonTT, my Tetris clone and the first complete thing I've produce in
 DragonRuby, is now up on GitHub ([github.com/ahnlak-dragonruby/dragontt](https://github.com/ahnlak-dragonruby/dragontt))
