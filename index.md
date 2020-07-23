@@ -13,7 +13,7 @@ discovery, as well as links to my own projects and other posts, below.
 I will attempt to keep this moderately up to date (or at least flag up anything that is
 wildly and unhelpfully out-dated!).
 
-Last updated : 27th June 2020
+Last updated : 23rd July 2020
 
 Useful Links
 ------------
@@ -23,5 +23,7 @@ Useful Links
 * My own Utility Toolkit, which has a small collection of hopefully useful, standalone classes to drop into your project - [ahnlak-dragonruby.github.io/UtilityToolkit](https://ahnlak-dragonruby.github.io/UtilityToolkit/)
 * Thomas Cannon's blog, which has some useful thoughts and was the first place I encountered args.grid properly - [thomascannon.me/dragon-ruby/guide](https://thomascannon.me/dragon-ruby/guide), and a [later post](https://thomascannon.me/dragon-ruby/engine-overview-2019-12-28) on the game he's developing.
 * Games tagged as being made with DragonRuby over on itch.io (it needs more, so write more games!) - [itch.io/games/made-with-dragonruby-gtk](https://itch.io/games/made-with-dragonruby-gtk)
+* My own 'things I wish I'd known a month ago' document, which I hope will form some sort of rough quick-start guide -
+[ahnlak-dragonruby.github.io/quickstart](https://ahnlak-dragonruby.github.io/quickstart/)
 
 In addition, the samples that come with DragonRuby are excellent sources of information.
