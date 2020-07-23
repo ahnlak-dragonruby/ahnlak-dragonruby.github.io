@@ -21,8 +21,8 @@ Environment
 
 When you bring up the console, you can enter commands. You can also - and this is
 the really cool bit - use tab completion to explore the SDK. So, fire up DR, open
-the console, type in `$gtk.` and hit <TAB>. It will show you all the properties of
-`$gtk`, which lets you see what's possible.
+the console, type in `$gtk.` and hit <TAB>. It will show you all the properties of `$gtk`, 
+which lets you see what's possible.
 
 
 Args
@@ -31,6 +31,6 @@ Args
 There's a bunch of useful things in that `args` parameter. Mostly they are documented
 somewhere, but these are the ones I've found most helpful and least obvious:
 
-* args.grid, a bunch of metrics about the screen size
-* args.outputs.debug, a special output queue that is rendered last, and not in your
+* `args.grid`, a bunch of metrics about the screen size
+* `args.outputs.debug`, a special output queue that is rendered last, and not in your
 published game
