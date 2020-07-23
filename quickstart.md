@@ -21,7 +21,7 @@ Environment
 
 When you bring up the console, you can enter commands. You can also - and this is
 the really cool bit - use tab completion to explore the SDK. So, fire up DR, open
-the console, type in `$gtk.` and hit <TAB>. It will show you all the properties of `$gtk`, 
+the console, type in `$gtk.` and hit &lt;TAB&gt;. It will show you all the properties of `$gtk`, 
 which lets you see what's possible.
 
 
