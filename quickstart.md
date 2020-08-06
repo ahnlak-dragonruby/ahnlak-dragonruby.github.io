@@ -34,3 +34,15 @@ somewhere, but these are the ones I've found most helpful and least obvious:
 * `args.grid`, a bunch of metrics about the screen size
 * `args.outputs.debug`, a special output queue that is rendered last, and not in your
 published game
+
+
+Co-ordinates
+------------
+
+The origin of the screen is bottom left; `x` increases as you move right, and `y` as you
+move up. Element locations are the same, so the anchor for sprites and labels are at 
+their respective bottom lefts.
+
+Angles are based of geometric polar co-ordinates; this means that 0 degrees is directly
+*right* - East in terms of compass points - and proceed *anti-clockwise*, with 90 degrees
+being North, 180 degrees West and 270 degrees South.
