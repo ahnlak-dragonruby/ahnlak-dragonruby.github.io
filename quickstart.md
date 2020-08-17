@@ -46,3 +46,15 @@ their respective bottom lefts.
 Angles are based of geometric polar co-ordinates; this means that 0 degrees is directly
 *right* - East in terms of compass points - and proceed *anti-clockwise*, with 90 degrees
 being North, 180 degrees West and 270 degrees South.
+
+
+Persistent Data
+---------------
+
+Variables you set in your `tick` method will only last for the duration of that tick. 
+The practical upshot of this is that is you try and remember your player's location
+in `playerx`, you'll find that nothing moves.
+
+`args.state` is a 'magic' global structure; you can add anything you like to it, and
+it will persist across ticks. So storing your location in `args.state.playerx` will
+mean that you can save your location between ticks and your player will move!
